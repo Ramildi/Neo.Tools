@@ -65,8 +65,6 @@ Installation
 Clone the repository:
 
 bash
-Kopyala
-Düzenle
 git clone https://github.com/yourusername/multitool.git
 cd multitool
 Install required tools on your system:
@@ -91,6 +89,10 @@ All operations must be performed legally and on targets you have permission to t
 Unauthorized or illegal use is strictly prohibited.
 
 Root privileges may be required for some tools.
+
+## 📝 License
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 
 Contact
 For questions or suggestions:
